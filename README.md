@@ -1,6 +1,6 @@
 # meta_assets
 
-Gobi Pet AI App
+meta_assets wallet
 
 ## Getting Started
 
